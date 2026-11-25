@@ -45,7 +45,8 @@ server in the MacTCP / TCP/IP control panel.
 
 ## Tested
 
-- On a real Quadra 700 with Open Transport (with an IP address; the hostname lookup is emulator-tested so far).
+- On a real Quadra 700 with System 7.6 and Open Transport, resolving `time.metas.ch`, and with
+  Mac OS 8.1 (server given as an IP).
 - In BasiliskII (68040 emulation, slirp networking), with the emulated clock set 3 days wrong, on
   Mac OS 8.1 (manual IP) and System 7.5.5 (DHCP), both with Open Transport, resolving `time.metas.ch`:
   `Clock set to 2026-11-25 19:41:15 (UTC+01:00) from time.metas.ch, was 2026-11-28 18:41:14.`

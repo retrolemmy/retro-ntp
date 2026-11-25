@@ -26,6 +26,8 @@ the clock was set.
 The time is set as UTC; Windows applies the time zone and DST from Control Panel > Date/Time, so
 nothing else needs configuring.
 
+Tested on Windows 98 with `time.metas.ch`.
+
 ## Build
 
 ```
