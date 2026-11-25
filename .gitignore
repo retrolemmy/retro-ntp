@@ -1,0 +1,8 @@
+# toolchains and build output (binaries go into GitHub releases)
+amiga/toolchain/
+amiga/build/
+amiga/NTPSet
+amiga/*.o
+mac/build/
+win9x/NTPSET.EXE
+common/test/test_timecalc
